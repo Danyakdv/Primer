@@ -1,0 +1,31 @@
+body {
+    font-size: 40px;
+}
+main, nav, footer {
+    background-color: #8f7e7e;
+    font-family: monospace ;
+    text-align: center;
+    height: 3pc;
+    border: 4px ridge black;
+}
+header {
+    background-color: white;
+    text-align: center;
+    border: 2px ridge black;
+    height: 6pc;
+}
+
+article {
+    height: 20pc;
+    position: absolute;
+    padding-left: 20%;
+    border: 2px ridge black;
+    width: 30%;
+}
+
+aside{
+    height: 20pc;
+    text-align: center;
+    border: 2px ridge black;
+    padding-left: 50%;
+}
